@@ -1,0 +1,8 @@
+ipush 0
+ipush 1
+iadd
+dup
+put
+putln
+dup
+jumpl 10 2

@@ -1,0 +1,15 @@
+ipush 1
+ipush 2
+isub
+ipush 3
+ipush 4
+iadd
+iadd
+put
+putln
+spush hello
+spush  -
+spush world
+sadd
+sadd
+put
