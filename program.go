@@ -1,4 +1,4 @@
-package crustasm
+package crust
 
 import (
 	"os"
